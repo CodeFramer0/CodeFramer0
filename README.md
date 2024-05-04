@@ -49,4 +49,6 @@ My programming experience is more than 5 years
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CodeFramer0&theme=dark&background=000000)](https://git.io/streak-stats)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeframer0&langs_count=8&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeframer0&langs_count=8&theme=dark)
+ 
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=codeframer)
